@@ -4,6 +4,9 @@
 
 ---
 
+
+https://github.com/miladmim/DB-Sentinel/blob/main/Screenshot%202026-09-21%20161408.png?raw=true
+
 ## ✨ امکانات و قابلیت‌های کلیدی
 
 ### 📦 ۱. بکاپ‌گیری هوشمند و بهینه
