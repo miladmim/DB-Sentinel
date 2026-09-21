@@ -5,7 +5,9 @@
 ---
 
 
-https://github.com/miladmim/DB-Sentinel/blob/main/Screenshot%202026-09-21%20161408.png?raw=true
+
+<img width="1778" height="885" alt="DB Sentinel" src="https://github.com/miladmim/OpenVPN-X-UI/blob/main/646546.png?raw=true" />
+
 
 ## ✨ امکانات و قابلیت‌های کلیدی
 
